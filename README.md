@@ -1,3 +1,28 @@
+# 👋 Hi, I'm Suraj
+
+### 🚀 Full Stack Developer | Node.js | React | MongoDB
+
+I love building modern web apps, fixing bugs, and learning new technologies daily.
+
+---
+
+## 🔧 Tech Stack
+- **Frontend:** React, Tailwind, JavaScript  
+- **Backend:** Node.js, Express, MongoDB  
+- **Tools:** Git, VS Code, Postman
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME)
+
+---
+
+## ✨ Fun Facts
+- 💡 I love solving real-world problems  
+- 🎧 Music + Coding = Perfect Combo  
+
 ## Hi there 👋
 
 <!--
