@@ -19,11 +19,9 @@
 
 Here are some of the public repos I’m working on or proud of:
 
-- **Talent‑Hunter** – A full-stack project built with JavaScript  
-- **nextjs‑ai‑chatbot** – Chatbot application built with Next.js & AI  
-- **news‑website‑** – Dynamic news website built with CSS & JavaScript
-
-> *Check out my profile to explore more repositories and their details.*
+- **[Talent-Hunter](https://github.com/surajyadav3/Talent-Hunter)** – A full-stack project built with JavaScript  
+- **[nextjs-ai-chatbot](https://github.com/surajyadav3/nextjs-ai-chatbot)** – Chatbot application built with Next.js & AI  
+- **[news-website](https://github.com/surajyadav3/news-website-)** – Dynamic news website built with CSS & JavaScript  
 
 ---
 
@@ -39,8 +37,8 @@ Here are some of the public repos I’m working on or proud of:
 ## 🌐 Let’s Connect
 
 <p align="center">
-  [![Discord](https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/) &nbsp;
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surajyadav3)
+  [![Discord](https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID) &nbsp;
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE_URL)
 </p>
 
 ---
