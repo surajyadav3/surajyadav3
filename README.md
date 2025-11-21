@@ -1,41 +1,27 @@
-# 👋 Hi, I'm Suraj
+<h1 align="center">Hey 👋, I'm Suraj</h1>
 
-### 🚀 Full Stack Developer | Node.js | React | MongoDB
-
-I love building modern web apps, fixing bugs, and learning new technologies daily.
-
----
-
-## 🔧 Tech Stack
-- **Frontend:** React, Tailwind, JavaScript  
-- **Backend:** Node.js, Express, MongoDB  
-- **Tools:** Git, VS Code, Postman
+<p align="center">
+  <b>Full Stack Developer | Backend Focused</b>
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME)
+### 🚀 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,js,html,css,git,github,vscode" />
+</p>
 
 ---
 
-## ✨ Fun Facts
-- 💡 I love solving real-world problems  
-- 🎧 Music + Coding = Perfect Combo  
+### 📈 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+</p>
 
-## Hi there 👋
+---
 
-<!--
-**surajyadav3/surajyadav3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌐 Connect With Me
+[![Discord](https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]()
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
